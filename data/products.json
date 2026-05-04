@@ -1,0 +1,281 @@
+[
+  {
+    "sku": "ELEC-001",
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "category": "electronics",
+    "price_gbp": 279.99,
+    "defect_rate": 0.018,
+    "return_rate": 0.042,
+    "seller_id": "seller_001"
+  },
+  {
+    "sku": "ELEC-002",
+    "name": "Apple AirPods Pro 2nd Generation",
+    "category": "electronics",
+    "price_gbp": 229.0,
+    "defect_rate": 0.012,
+    "return_rate": 0.031,
+    "seller_id": "seller_001"
+  },
+  {
+    "sku": "ELEC-003",
+    "name": "Samsung 65\" QLED 4K Smart TV",
+    "category": "electronics",
+    "price_gbp": 899.0,
+    "defect_rate": 0.009,
+    "return_rate": 0.028,
+    "seller_id": "seller_001"
+  },
+  {
+    "sku": "ELEC-004",
+    "name": "Dell XPS 15 Laptop 16GB RAM 512GB SSD",
+    "category": "electronics",
+    "price_gbp": 1249.99,
+    "defect_rate": 0.022,
+    "return_rate": 0.038,
+    "seller_id": "seller_013"
+  },
+  {
+    "sku": "ELEC-005",
+    "name": "Dyson V15 Detect Cordless Vacuum Cleaner",
+    "category": "electronics",
+    "price_gbp": 449.99,
+    "defect_rate": 0.031,
+    "return_rate": 0.055,
+    "seller_id": "seller_006"
+  },
+  {
+    "sku": "ELEC-006",
+    "name": "Nintendo Switch OLED Console",
+    "category": "electronics",
+    "price_gbp": 299.99,
+    "defect_rate": 0.014,
+    "return_rate": 0.027,
+    "seller_id": "seller_006"
+  },
+  {
+    "sku": "ELEC-007",
+    "name": "Fitbit Charge 6 Fitness Tracker",
+    "category": "electronics",
+    "price_gbp": 119.99,
+    "defect_rate": 0.041,
+    "return_rate": 0.073,
+    "seller_id": "seller_008"
+  },
+  {
+    "sku": "ELEC-008",
+    "name": "Canon EOS R50 Mirrorless Camera",
+    "category": "electronics",
+    "price_gbp": 699.0,
+    "defect_rate": 0.008,
+    "return_rate": 0.021,
+    "seller_id": "seller_013"
+  },
+  {
+    "sku": "ELEC-009",
+    "name": "Bose SoundLink Flex Bluetooth Speaker",
+    "category": "electronics",
+    "price_gbp": 139.99,
+    "defect_rate": 0.027,
+    "return_rate": 0.048,
+    "seller_id": "seller_008"
+  },
+  {
+    "sku": "ELEC-010",
+    "name": "Ring Video Doorbell Pro 2",
+    "category": "electronics",
+    "price_gbp": 199.99,
+    "defect_rate": 0.035,
+    "return_rate": 0.061,
+    "seller_id": "seller_020"
+  },
+  {
+    "sku": "CLTH-001",
+    "name": "The North Face Waterproof Hiking Jacket",
+    "category": "clothing",
+    "price_gbp": 189.99,
+    "defect_rate": 0.011,
+    "return_rate": 0.089,
+    "seller_id": "seller_007"
+  },
+  {
+    "sku": "CLTH-002",
+    "name": "Nike Air Max 270 Running Trainers",
+    "category": "clothing",
+    "price_gbp": 109.99,
+    "defect_rate": 0.019,
+    "return_rate": 0.112,
+    "seller_id": "seller_007"
+  },
+  {
+    "sku": "CLTH-003",
+    "name": "Women's Cashmere V-Neck Jumper",
+    "category": "clothing",
+    "price_gbp": 79.99,
+    "defect_rate": 0.023,
+    "return_rate": 0.098,
+    "seller_id": "seller_016"
+  },
+  {
+    "sku": "CLTH-004",
+    "name": "Men's Slim Fit Chinos 32W 32L",
+    "category": "clothing",
+    "price_gbp": 39.99,
+    "defect_rate": 0.028,
+    "return_rate": 0.076,
+    "seller_id": "seller_002"
+  },
+  {
+    "sku": "CLTH-005",
+    "name": "Adidas Ultraboost 22 Running Shoes",
+    "category": "clothing",
+    "price_gbp": 149.99,
+    "defect_rate": 0.016,
+    "return_rate": 0.094,
+    "seller_id": "seller_007"
+  },
+  {
+    "sku": "CLTH-006",
+    "name": "Levi's 501 Original Fit Jeans",
+    "category": "clothing",
+    "price_gbp": 69.99,
+    "defect_rate": 0.009,
+    "return_rate": 0.082,
+    "seller_id": "seller_016"
+  },
+  {
+    "sku": "CLTH-007",
+    "name": "Columbia Powder Lite Hooded Jacket",
+    "category": "clothing",
+    "price_gbp": 84.99,
+    "defect_rate": 0.014,
+    "return_rate": 0.067,
+    "seller_id": "seller_002"
+  },
+  {
+    "sku": "FURN-001",
+    "name": "3-Seater Chesterfield Velvet Sofa in Teal",
+    "category": "furniture",
+    "price_gbp": 549.0,
+    "defect_rate": 0.041,
+    "return_rate": 0.033,
+    "seller_id": "seller_003"
+  },
+  {
+    "sku": "FURN-002",
+    "name": "Solid Oak 6-Drawer Chest of Drawers",
+    "category": "furniture",
+    "price_gbp": 329.99,
+    "defect_rate": 0.029,
+    "return_rate": 0.026,
+    "seller_id": "seller_003"
+  },
+  {
+    "sku": "FURN-003",
+    "name": "King Size Memory Foam Mattress 1500 Pocket",
+    "category": "furniture",
+    "price_gbp": 449.99,
+    "defect_rate": 0.018,
+    "return_rate": 0.039,
+    "seller_id": "seller_009"
+  },
+  {
+    "sku": "FURN-004",
+    "name": "Glass and Steel Extending Dining Table",
+    "category": "furniture",
+    "price_gbp": 299.0,
+    "defect_rate": 0.052,
+    "return_rate": 0.044,
+    "seller_id": "seller_003"
+  },
+  {
+    "sku": "FURN-005",
+    "name": "Ergonomic Office Chair Lumbar Support",
+    "category": "furniture",
+    "price_gbp": 219.99,
+    "defect_rate": 0.037,
+    "return_rate": 0.051,
+    "seller_id": "seller_014"
+  },
+  {
+    "sku": "FURN-006",
+    "name": "Floating Wall-Mounted TV Unit 180cm",
+    "category": "furniture",
+    "price_gbp": 189.99,
+    "defect_rate": 0.044,
+    "return_rate": 0.038,
+    "seller_id": "seller_014"
+  },
+  {
+    "sku": "TOYS-001",
+    "name": "LEGO Technic Bugatti Chiron 3599 Pieces",
+    "category": "toys",
+    "price_gbp": 279.99,
+    "defect_rate": 0.007,
+    "return_rate": 0.028,
+    "seller_id": "seller_004"
+  },
+  {
+    "sku": "TOYS-002",
+    "name": "Barbie Dreamhouse 2024 Edition",
+    "category": "toys",
+    "price_gbp": 159.99,
+    "defect_rate": 0.021,
+    "return_rate": 0.041,
+    "seller_id": "seller_010"
+  },
+  {
+    "sku": "TOYS-003",
+    "name": "Hot Wheels Ultimate Garage Playset",
+    "category": "toys",
+    "price_gbp": 89.99,
+    "defect_rate": 0.018,
+    "return_rate": 0.034,
+    "seller_id": "seller_004"
+  },
+  {
+    "sku": "TOYS-004",
+    "name": "VTech Touch and Learn Activity Desk",
+    "category": "toys",
+    "price_gbp": 49.99,
+    "defect_rate": 0.024,
+    "return_rate": 0.046,
+    "seller_id": "seller_010"
+  },
+  {
+    "sku": "BOOK-001",
+    "name": "Atomic Habits by James Clear (Hardcover)",
+    "category": "books",
+    "price_gbp": 14.99,
+    "defect_rate": 0.003,
+    "return_rate": 0.018,
+    "seller_id": "seller_005"
+  },
+  {
+    "sku": "BOOK-002",
+    "name": "The Thursday Murder Club (Hardcover)",
+    "category": "books",
+    "price_gbp": 12.99,
+    "defect_rate": 0.004,
+    "return_rate": 0.021,
+    "seller_id": "seller_005"
+  },
+  {
+    "sku": "FOOD-001",
+    "name": "Organic Protein Powder Chocolate 2kg",
+    "category": "health",
+    "price_gbp": 34.99,
+    "defect_rate": 0.009,
+    "return_rate": 0.027,
+    "seller_id": "seller_018"
+  },
+  {
+    "sku": "FOOD-002",
+    "name": "Vitamin D3 + K2 Supplement 365 Capsules",
+    "category": "health",
+    "price_gbp": 19.99,
+    "defect_rate": 0.006,
+    "return_rate": 0.019,
+    "seller_id": "seller_018"
+  }
+]

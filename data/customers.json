@@ -1,0 +1,902 @@
+[
+  {
+    "id": "cust_0001",
+    "name": "Jacob Jones",
+    "email": "jacob.jones95@yahoo.co.uk",
+    "phone": "07362950628",
+    "city": "Sheffield",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.074
+  },
+  {
+    "id": "cust_0002",
+    "name": "Wei Williams",
+    "email": "wei.williams4@gmail.com",
+    "phone": "07334760738",
+    "city": "Sheffield",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.06
+  },
+  {
+    "id": "cust_0003",
+    "name": "Chen Thompson",
+    "email": "chen.thompson58@icloud.com",
+    "phone": "07398704996",
+    "city": "London",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.362
+  },
+  {
+    "id": "cust_0004",
+    "name": "Aisha Evans",
+    "email": "aisha.evans12@outlook.com",
+    "phone": "07203848421",
+    "city": "Bradford",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.06
+  },
+  {
+    "id": "cust_0005",
+    "name": "Ravi Davies",
+    "email": "ravi.davies71@yahoo.co.uk",
+    "phone": "07990566476",
+    "city": "Bradford",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.114
+  },
+  {
+    "id": "cust_0006",
+    "name": "Noah Thompson",
+    "email": "noah.thompson13@outlook.com",
+    "phone": "07398471886",
+    "city": "Newcastle",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.016
+  },
+  {
+    "id": "cust_0007",
+    "name": "George Johnson",
+    "email": "george.johnson69@hotmail.co.uk",
+    "phone": "07275452091",
+    "city": "Newcastle",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.027
+  },
+  {
+    "id": "cust_0008",
+    "name": "Mohammed Taylor",
+    "email": "mohammed.taylor30@gmail.com",
+    "phone": "07964411347",
+    "city": "Coventry",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.142
+  },
+  {
+    "id": "cust_0009",
+    "name": "Mohammed Robinson",
+    "email": "mohammed.robinson84@outlook.com",
+    "phone": "07524806516",
+    "city": "Newcastle",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.026
+  },
+  {
+    "id": "cust_0010",
+    "name": "Wei Singh",
+    "email": "wei.singh47@hotmail.co.uk",
+    "phone": "07248532577",
+    "city": "Brighton",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.009
+  },
+  {
+    "id": "cust_0011",
+    "name": "Wei Brown",
+    "email": "wei.brown50@outlook.com",
+    "phone": "07739830322",
+    "city": "Newcastle",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.025
+  },
+  {
+    "id": "cust_0012",
+    "name": "Jacob Edwards",
+    "email": "jacob.edwards99@yahoo.co.uk",
+    "phone": "07219778234",
+    "city": "Leicester",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.016
+  },
+  {
+    "id": "cust_0013",
+    "name": "Cian Walker",
+    "email": "cian.walker65@gmail.com",
+    "phone": "07771410971",
+    "city": "Leicester",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.061
+  },
+  {
+    "id": "cust_0014",
+    "name": "James Lewis",
+    "email": "james.lewis63@gmail.com",
+    "phone": "07220117054",
+    "city": "Bradford",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.024
+  },
+  {
+    "id": "cust_0015",
+    "name": "Aoife Brown",
+    "email": "aoife.brown98@icloud.com",
+    "phone": "07922308461",
+    "city": "Glasgow",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.066
+  },
+  {
+    "id": "cust_0016",
+    "name": "Wei Robinson",
+    "email": "wei.robinson70@hotmail.co.uk",
+    "phone": "07865523129",
+    "city": "Leicester",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.1
+  },
+  {
+    "id": "cust_0017",
+    "name": "Jacob White",
+    "email": "jacob.white29@gmail.com",
+    "phone": "07463016614",
+    "city": "London",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.055
+  },
+  {
+    "id": "cust_0018",
+    "name": "Jack Thompson",
+    "email": "jack.thompson9@gmail.com",
+    "phone": "07454794895",
+    "city": "Birmingham",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.024
+  },
+  {
+    "id": "cust_0019",
+    "name": "Stefan White",
+    "email": "stefan.white61@outlook.com",
+    "phone": "07304451095",
+    "city": "Leeds",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.171
+  },
+  {
+    "id": "cust_0020",
+    "name": "Jack Evans",
+    "email": "jack.evans8@outlook.com",
+    "phone": "07881913386",
+    "city": "Coventry",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.025
+  },
+  {
+    "id": "cust_0021",
+    "name": "Poppy Begum",
+    "email": "poppy.begum32@gmail.com",
+    "phone": "07575808013",
+    "city": "Southampton",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.634
+  },
+  {
+    "id": "cust_0022",
+    "name": "Isabella Johnson",
+    "email": "isabella.johnson53@outlook.com",
+    "phone": "07616854671",
+    "city": "Bristol",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.09
+  },
+  {
+    "id": "cust_0023",
+    "name": "Elena Green",
+    "email": "elena.green55@icloud.com",
+    "phone": "07810678904",
+    "city": "Belfast",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.019
+  },
+  {
+    "id": "cust_0024",
+    "name": "Jack Lewis",
+    "email": "jack.lewis8@gmail.com",
+    "phone": "07727255918",
+    "city": "Belfast",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.092
+  },
+  {
+    "id": "cust_0025",
+    "name": "Olivia Brown",
+    "email": "olivia.brown77@gmail.com",
+    "phone": "07825003955",
+    "city": "Sheffield",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.012
+  },
+  {
+    "id": "cust_0026",
+    "name": "Noah Ali",
+    "email": "noah.ali85@icloud.com",
+    "phone": "07706907788",
+    "city": "Brighton",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.093
+  },
+  {
+    "id": "cust_0027",
+    "name": "Anjali Thomas",
+    "email": "anjali.thomas86@yahoo.co.uk",
+    "phone": "07590941149",
+    "city": "Coventry",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.001
+  },
+  {
+    "id": "cust_0028",
+    "name": "Ava Hughes",
+    "email": "ava.hughes17@yahoo.co.uk",
+    "phone": "07173864104",
+    "city": "Sheffield",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.028
+  },
+  {
+    "id": "cust_0029",
+    "name": "James Hall",
+    "email": "james.hall85@gmail.com",
+    "phone": "07244193987",
+    "city": "Edinburgh",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.089
+  },
+  {
+    "id": "cust_0030",
+    "name": "Ava Harris",
+    "email": "ava.harris27@yahoo.co.uk",
+    "phone": "07642678844",
+    "city": "Belfast",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.091
+  },
+  {
+    "id": "cust_0031",
+    "name": "Poppy Williams",
+    "email": "poppy.williams1@yahoo.co.uk",
+    "phone": "07927982963",
+    "city": "Glasgow",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.016
+  },
+  {
+    "id": "cust_0032",
+    "name": "Jacob Brown",
+    "email": "jacob.brown89@hotmail.co.uk",
+    "phone": "07685823118",
+    "city": "Manchester",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.058
+  },
+  {
+    "id": "cust_0033",
+    "name": "Harry Clarke",
+    "email": "harry.clarke27@hotmail.co.uk",
+    "phone": "07816114302",
+    "city": "Leeds",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.078
+  },
+  {
+    "id": "cust_0034",
+    "name": "Freddie White",
+    "email": "freddie.white21@hotmail.co.uk",
+    "phone": "07542697755",
+    "city": "London",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.166
+  },
+  {
+    "id": "cust_0035",
+    "name": "Isabella Edwards",
+    "email": "isabella.edwards21@gmail.com",
+    "phone": "07510751046",
+    "city": "Manchester",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.022
+  },
+  {
+    "id": "cust_0036",
+    "name": "Mia Thompson",
+    "email": "mia.thompson4@hotmail.co.uk",
+    "phone": "07527849588",
+    "city": "Coventry",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.086
+  },
+  {
+    "id": "cust_0037",
+    "name": "Anjali Harris",
+    "email": "anjali.harris4@gmail.com",
+    "phone": "07380477683",
+    "city": "Liverpool",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.096
+  },
+  {
+    "id": "cust_0038",
+    "name": "Mohammed Ahmed",
+    "email": "mohammed.ahmed78@icloud.com",
+    "phone": "07224173718",
+    "city": "Cardiff",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.019
+  },
+  {
+    "id": "cust_0039",
+    "name": "Isla Patel",
+    "email": "isla.patel56@gmail.com",
+    "phone": "07813219781",
+    "city": "Coventry",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.031
+  },
+  {
+    "id": "cust_0040",
+    "name": "Lily Ali",
+    "email": "lily.ali42@outlook.com",
+    "phone": "07848621833",
+    "city": "Leicester",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.013
+  },
+  {
+    "id": "cust_0041",
+    "name": "Olivia Hall",
+    "email": "olivia.hall52@icloud.com",
+    "phone": "07995205588",
+    "city": "London",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.029
+  },
+  {
+    "id": "cust_0042",
+    "name": "Elena Shah",
+    "email": "elena.shah57@hotmail.co.uk",
+    "phone": "07648868899",
+    "city": "Belfast",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.066
+  },
+  {
+    "id": "cust_0043",
+    "name": "Noah White",
+    "email": "noah.white87@yahoo.co.uk",
+    "phone": "07341206079",
+    "city": "Bristol",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.149
+  },
+  {
+    "id": "cust_0044",
+    "name": "George Begum",
+    "email": "george.begum54@icloud.com",
+    "phone": "07308773243",
+    "city": "Cardiff",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.13
+  },
+  {
+    "id": "cust_0045",
+    "name": "Charlie Ahmed",
+    "email": "charlie.ahmed29@hotmail.co.uk",
+    "phone": "07963406382",
+    "city": "Brighton",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.005
+  },
+  {
+    "id": "cust_0046",
+    "name": "Elena Lewis",
+    "email": "elena.lewis97@outlook.com",
+    "phone": "07757830420",
+    "city": "Brighton",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.083
+  },
+  {
+    "id": "cust_0047",
+    "name": "Stefan Shah",
+    "email": "stefan.shah34@hotmail.co.uk",
+    "phone": "07784683755",
+    "city": "Edinburgh",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.048
+  },
+  {
+    "id": "cust_0048",
+    "name": "Isabella Edwards",
+    "email": "isabella.edwards43@yahoo.co.uk",
+    "phone": "07679984033",
+    "city": "Birmingham",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.015
+  },
+  {
+    "id": "cust_0049",
+    "name": "Chen Ali",
+    "email": "chen.ali43@icloud.com",
+    "phone": "07600282414",
+    "city": "Nottingham",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.021
+  },
+  {
+    "id": "cust_0050",
+    "name": "Oliver Khan",
+    "email": "oliver.khan62@gmail.com",
+    "phone": "07477698143",
+    "city": "Leicester",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.085
+  },
+  {
+    "id": "cust_0051",
+    "name": "Mia Kumar",
+    "email": "mia.kumar29@yahoo.co.uk",
+    "phone": "07567975319",
+    "city": "Belfast",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.039
+  },
+  {
+    "id": "cust_0052",
+    "name": "Elena Thomas",
+    "email": "elena.thomas80@icloud.com",
+    "phone": "07128955006",
+    "city": "Cardiff",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.056
+  },
+  {
+    "id": "cust_0053",
+    "name": "Elena Walker",
+    "email": "elena.walker7@yahoo.co.uk",
+    "phone": "07507059676",
+    "city": "Coventry",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.045
+  },
+  {
+    "id": "cust_0054",
+    "name": "Chen Hughes",
+    "email": "chen.hughes11@outlook.com",
+    "phone": "07120812641",
+    "city": "Southampton",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.17
+  },
+  {
+    "id": "cust_0055",
+    "name": "Harry Jones",
+    "email": "harry.jones32@hotmail.co.uk",
+    "phone": "07121882877",
+    "city": "Glasgow",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.013
+  },
+  {
+    "id": "cust_0056",
+    "name": "Sophie Patel",
+    "email": "sophie.patel22@icloud.com",
+    "phone": "07752027025",
+    "city": "Leeds",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.096
+  },
+  {
+    "id": "cust_0057",
+    "name": "Ravi Singh",
+    "email": "ravi.singh92@hotmail.co.uk",
+    "phone": "07181600593",
+    "city": "Sheffield",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.16
+  },
+  {
+    "id": "cust_0058",
+    "name": "Harry Clarke",
+    "email": "harry.clarke69@outlook.com",
+    "phone": "07810303128",
+    "city": "Bradford",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.168
+  },
+  {
+    "id": "cust_0059",
+    "name": "Charlie Ahmed",
+    "email": "charlie.ahmed47@outlook.com",
+    "phone": "07859466878",
+    "city": "Glasgow",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.018
+  },
+  {
+    "id": "cust_0060",
+    "name": "Stefan Begum",
+    "email": "stefan.begum56@icloud.com",
+    "phone": "07388187517",
+    "city": "Coventry",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.083
+  },
+  {
+    "id": "cust_0061",
+    "name": "Elena Khan",
+    "email": "elena.khan44@gmail.com",
+    "phone": "07630757561",
+    "city": "Coventry",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.049
+  },
+  {
+    "id": "cust_0062",
+    "name": "Poppy Smith",
+    "email": "poppy.smith67@hotmail.co.uk",
+    "phone": "07191926217",
+    "city": "Sheffield",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.049
+  },
+  {
+    "id": "cust_0063",
+    "name": "Aoife Shah",
+    "email": "aoife.shah3@gmail.com",
+    "phone": "07415933049",
+    "city": "Sheffield",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.069
+  },
+  {
+    "id": "cust_0064",
+    "name": "Priya Ahmed",
+    "email": "priya.ahmed96@icloud.com",
+    "phone": "07455184454",
+    "city": "Bradford",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.027
+  },
+  {
+    "id": "cust_0065",
+    "name": "Jacob Walker",
+    "email": "jacob.walker25@hotmail.co.uk",
+    "phone": "07893070706",
+    "city": "Belfast",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.072
+  },
+  {
+    "id": "cust_0066",
+    "name": "Charlie Wright",
+    "email": "charlie.wright38@hotmail.co.uk",
+    "phone": "07487493096",
+    "city": "Liverpool",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.41
+  },
+  {
+    "id": "cust_0067",
+    "name": "Grace Thomas",
+    "email": "grace.thomas82@outlook.com",
+    "phone": "07210152642",
+    "city": "London",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.436
+  },
+  {
+    "id": "cust_0068",
+    "name": "Sophie Sharma",
+    "email": "sophie.sharma15@gmail.com",
+    "phone": "07530256336",
+    "city": "Belfast",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.237
+  },
+  {
+    "id": "cust_0069",
+    "name": "Lily Davies",
+    "email": "lily.davies32@gmail.com",
+    "phone": "07699226355",
+    "city": "Nottingham",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.06
+  },
+  {
+    "id": "cust_0070",
+    "name": "Yuki Hall",
+    "email": "yuki.hall76@outlook.com",
+    "phone": "07427899537",
+    "city": "Manchester",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.096
+  },
+  {
+    "id": "cust_0071",
+    "name": "Sophie Davies",
+    "email": "sophie.davies21@hotmail.co.uk",
+    "phone": "07286630878",
+    "city": "Southampton",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.016
+  },
+  {
+    "id": "cust_0072",
+    "name": "Harry Thompson",
+    "email": "harry.thompson37@yahoo.co.uk",
+    "phone": "07854827139",
+    "city": "Newcastle",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.069
+  },
+  {
+    "id": "cust_0073",
+    "name": "Isla Ahmed",
+    "email": "isla.ahmed15@icloud.com",
+    "phone": "07341387305",
+    "city": "Glasgow",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.083
+  },
+  {
+    "id": "cust_0074",
+    "name": "Grace Shah",
+    "email": "grace.shah16@outlook.com",
+    "phone": "07839462365",
+    "city": "Leicester",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.094
+  },
+  {
+    "id": "cust_0075",
+    "name": "Harry Ahmed",
+    "email": "harry.ahmed95@yahoo.co.uk",
+    "phone": "07748232591",
+    "city": "Edinburgh",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.009
+  },
+  {
+    "id": "cust_0076",
+    "name": "Oliver Edwards",
+    "email": "oliver.edwards74@gmail.com",
+    "phone": "07919382051",
+    "city": "Liverpool",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.411
+  },
+  {
+    "id": "cust_0077",
+    "name": "Wei Kumar",
+    "email": "wei.kumar12@outlook.com",
+    "phone": "07473620340",
+    "city": "Nottingham",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.032
+  },
+  {
+    "id": "cust_0078",
+    "name": "Aoife Green",
+    "email": "aoife.green85@outlook.com",
+    "phone": "07973559879",
+    "city": "Southampton",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.429
+  },
+  {
+    "id": "cust_0079",
+    "name": "Anjali Smith",
+    "email": "anjali.smith85@icloud.com",
+    "phone": "07596043327",
+    "city": "Nottingham",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.019
+  },
+  {
+    "id": "cust_0080",
+    "name": "Jack Robinson",
+    "email": "jack.robinson35@icloud.com",
+    "phone": "07240674381",
+    "city": "Leicester",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.088
+  },
+  {
+    "id": "cust_0081",
+    "name": "Isabella Johnson",
+    "email": "isabella.johnson40@icloud.com",
+    "phone": "07114682844",
+    "city": "Southampton",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.009
+  },
+  {
+    "id": "cust_0082",
+    "name": "Jacob Roberts",
+    "email": "jacob.roberts64@yahoo.co.uk",
+    "phone": "07646397165",
+    "city": "Edinburgh",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.083
+  },
+  {
+    "id": "cust_0083",
+    "name": "Ravi Wright",
+    "email": "ravi.wright77@icloud.com",
+    "phone": "07901325519",
+    "city": "Glasgow",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.258
+  },
+  {
+    "id": "cust_0084",
+    "name": "Cian Edwards",
+    "email": "cian.edwards1@yahoo.co.uk",
+    "phone": "07879591310",
+    "city": "Leicester",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.058
+  },
+  {
+    "id": "cust_0085",
+    "name": "Stefan Clarke",
+    "email": "stefan.clarke43@icloud.com",
+    "phone": "07919128302",
+    "city": "Southampton",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.046
+  },
+  {
+    "id": "cust_0086",
+    "name": "Ravi Thompson",
+    "email": "ravi.thompson53@gmail.com",
+    "phone": "07441639230",
+    "city": "Belfast",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.628
+  },
+  {
+    "id": "cust_0087",
+    "name": "Aoife Williams",
+    "email": "aoife.williams17@icloud.com",
+    "phone": "07733701411",
+    "city": "Coventry",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.087
+  },
+  {
+    "id": "cust_0088",
+    "name": "Freddie Ali",
+    "email": "freddie.ali84@hotmail.co.uk",
+    "phone": "07180346223",
+    "city": "Belfast",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.239
+  },
+  {
+    "id": "cust_0089",
+    "name": "Ravi Lewis",
+    "email": "ravi.lewis81@outlook.com",
+    "phone": "07680911523",
+    "city": "Manchester",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.668
+  },
+  {
+    "id": "cust_0090",
+    "name": "Noah Ahmed",
+    "email": "noah.ahmed13@gmail.com",
+    "phone": "07576396216",
+    "city": "Liverpool",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.09
+  },
+  {
+    "id": "cust_0091",
+    "name": "Fatima Ahmed",
+    "email": "fatima.ahmed19@hotmail.co.uk",
+    "phone": "07670335494",
+    "city": "Nottingham",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.068
+  },
+  {
+    "id": "cust_0092",
+    "name": "Ravi White",
+    "email": "ravi.white64@icloud.com",
+    "phone": "07253671484",
+    "city": "Sheffield",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.192
+  },
+  {
+    "id": "cust_0093",
+    "name": "Elena Green",
+    "email": "elena.green87@icloud.com",
+    "phone": "07269625036",
+    "city": "Birmingham",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.42
+  },
+  {
+    "id": "cust_0094",
+    "name": "Sophie Begum",
+    "email": "sophie.begum39@hotmail.co.uk",
+    "phone": "07513061224",
+    "city": "Belfast",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.53
+  },
+  {
+    "id": "cust_0095",
+    "name": "Grace Jones",
+    "email": "grace.jones85@outlook.com",
+    "phone": "07394721069",
+    "city": "London",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.256
+  },
+  {
+    "id": "cust_0096",
+    "name": "Aoife Green",
+    "email": "aoife.green30@icloud.com",
+    "phone": "07961067882",
+    "city": "Bradford",
+    "dispute_count": 1,
+    "fraud_risk_score": 0.064
+  },
+  {
+    "id": "cust_0097",
+    "name": "Alfie Evans",
+    "email": "alfie.evans81@gmail.com",
+    "phone": "07431714152",
+    "city": "Newcastle",
+    "dispute_count": 0,
+    "fraud_risk_score": 0.058
+  },
+  {
+    "id": "cust_0098",
+    "name": "Chen Walker",
+    "email": "chen.walker26@hotmail.co.uk",
+    "phone": "07944511703",
+    "city": "Southampton",
+    "dispute_count": 2,
+    "fraud_risk_score": 0.053
+  },
+  {
+    "id": "cust_0099",
+    "name": "Stefan Green",
+    "email": "stefan.green96@yahoo.co.uk",
+    "phone": "07963538119",
+    "city": "Leeds",
+    "dispute_count": 3,
+    "fraud_risk_score": 0.128
+  },
+  {
+    "id": "cust_0100",
+    "name": "Anjali Patel",
+    "email": "anjali.patel12@outlook.com",
+    "phone": "07114945047",
+    "city": "Edinburgh",
+    "dispute_count": 4,
+    "fraud_risk_score": 0.012
+  }
+]

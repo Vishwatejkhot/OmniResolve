@@ -1,0 +1,162 @@
+[
+  {
+    "id": "seller_001",
+    "name": "TechHub Electronics",
+    "dispute_rate": 0.031,
+    "refund_rate": 0.072,
+    "fraud_signals": 0,
+    "category": "electronics"
+  },
+  {
+    "id": "seller_002",
+    "name": "FastFashion Ltd",
+    "dispute_rate": 0.089,
+    "refund_rate": 0.143,
+    "fraud_signals": 1,
+    "category": "clothing"
+  },
+  {
+    "id": "seller_003",
+    "name": "HomeComfort Furniture",
+    "dispute_rate": 0.044,
+    "refund_rate": 0.065,
+    "fraud_signals": 0,
+    "category": "furniture"
+  },
+  {
+    "id": "seller_004",
+    "name": "ToyWorld Direct",
+    "dispute_rate": 0.028,
+    "refund_rate": 0.051,
+    "fraud_signals": 0,
+    "category": "toys"
+  },
+  {
+    "id": "seller_005",
+    "name": "BookBarn Online",
+    "dispute_rate": 0.012,
+    "refund_rate": 0.038,
+    "fraud_signals": 0,
+    "category": "books"
+  },
+  {
+    "id": "seller_006",
+    "name": "GadgetZone UK",
+    "dispute_rate": 0.062,
+    "refund_rate": 0.098,
+    "fraud_signals": 2,
+    "category": "electronics"
+  },
+  {
+    "id": "seller_007",
+    "name": "SportsPro Direct",
+    "dispute_rate": 0.035,
+    "refund_rate": 0.067,
+    "fraud_signals": 0,
+    "category": "clothing"
+  },
+  {
+    "id": "seller_008",
+    "name": "ElectroBargains",
+    "dispute_rate": 0.121,
+    "refund_rate": 0.187,
+    "fraud_signals": 4,
+    "category": "electronics"
+  },
+  {
+    "id": "seller_009",
+    "name": "Luxe Living",
+    "dispute_rate": 0.019,
+    "refund_rate": 0.041,
+    "fraud_signals": 0,
+    "category": "furniture"
+  },
+  {
+    "id": "seller_010",
+    "name": "KidsKingdom",
+    "dispute_rate": 0.023,
+    "refund_rate": 0.049,
+    "fraud_signals": 0,
+    "category": "toys"
+  },
+  {
+    "id": "seller_011",
+    "name": "MegaMarket Online",
+    "dispute_rate": 0.076,
+    "refund_rate": 0.112,
+    "fraud_signals": 3,
+    "category": "general"
+  },
+  {
+    "id": "seller_012",
+    "name": "GreenLeaf Foods",
+    "dispute_rate": 0.041,
+    "refund_rate": 0.063,
+    "fraud_signals": 0,
+    "category": "food"
+  },
+  {
+    "id": "seller_013",
+    "name": "PhotoPro Supplies",
+    "dispute_rate": 0.033,
+    "refund_rate": 0.058,
+    "fraud_signals": 0,
+    "category": "electronics"
+  },
+  {
+    "id": "seller_014",
+    "name": "Cosy Home Stores",
+    "dispute_rate": 0.027,
+    "refund_rate": 0.044,
+    "fraud_signals": 0,
+    "category": "furniture"
+  },
+  {
+    "id": "seller_015",
+    "name": "QuickShip Marketplace",
+    "dispute_rate": 0.098,
+    "refund_rate": 0.154,
+    "fraud_signals": 5,
+    "category": "general"
+  },
+  {
+    "id": "seller_016",
+    "name": "PremiumThreads",
+    "dispute_rate": 0.015,
+    "refund_rate": 0.031,
+    "fraud_signals": 0,
+    "category": "clothing"
+  },
+  {
+    "id": "seller_017",
+    "name": "AutoParts Express",
+    "dispute_rate": 0.053,
+    "refund_rate": 0.088,
+    "fraud_signals": 1,
+    "category": "automotive"
+  },
+  {
+    "id": "seller_018",
+    "name": "NatureWell Supplements",
+    "dispute_rate": 0.068,
+    "refund_rate": 0.102,
+    "fraud_signals": 2,
+    "category": "health"
+  },
+  {
+    "id": "seller_019",
+    "name": "ArtisanCrafts UK",
+    "dispute_rate": 0.021,
+    "refund_rate": 0.037,
+    "fraud_signals": 0,
+    "category": "crafts"
+  },
+  {
+    "id": "seller_020",
+    "name": "ZapDeal Electronics",
+    "dispute_rate": 0.134,
+    "refund_rate": 0.201,
+    "fraud_signals": 6,
+    "category": "electronics"
+  }
+]
